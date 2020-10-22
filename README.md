@@ -1,5 +1,5 @@
 # Pop-up-art-Projection-mapping
-This is a term project
+This is a term project for a computational arts course
 
 ## Itroduction
 
